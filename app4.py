@@ -77,10 +77,10 @@ def main():
 
             # Load the MobilenetV2 models
             model_paths = [
-                r"C:\Users\aniru\PycharmProjects\areca nut model fp\mobilenetv2_model.h5",
+                r"mobilenetv2_model.h5",
                 #r"C:\Users\aniru\PycharmProjects\areca nut model fp\mobilenetv2_model (1).h5",
-                r"C:\Users\aniru\PycharmProjects\areca nut model fp\custom_model.h5",
-                r"C:\Users\aniru\PycharmProjects\areca nut model fp\custom_model (2).h5",
+                r"custom_model.h5",
+                #r"custom_model (2).h5",
                 #"fine_tuned_model.h5",
                 #"trained_model_01.h5",
                 #"trained_model.h5",
